@@ -1,4 +1,4 @@
-# Pat.Io
+# Pat.io
 
 ## Synopsis
 
@@ -40,24 +40,24 @@ Pat.io is an AI chatbot fine-tuned to provide migrants with easy access to essen
 Pat.io leverages an extensive technology stack to create a comprehensive and supportive user experience for migrants:
 
 1. **Eligibility and Documentation Checker**:
-   - Provides dynamic responses based on user input regarding eligibility and required documentation
-   - Uses backend processing with Express to validate input and retrieve relevant guidelines
+   - Provides dynamic responses based on user input regarding eligibility and required documentation.
+   - Uses backend processing with Express to validate input and retrieve relevant guidelines.
 
 2. **Multi-Language Functionality**:
-   - Utilizes Google Cloud Translate API and i18next to support text translation and localization
-   - Employs Google Cloud Text-to-Speech and Speech-to-Text APIs, along with the Web Speech API, to enable both text and voice interactions in multiple languages
+   - Utilizes Google Cloud Translate API and i18next to support text translation and localization.
+   - Employs Google Cloud Text-to-Speech and Speech-to-Text APIs, along with the Web Speech API, to enable both text and voice interactions in multiple languages.
 
 3. **Data Processing**:
-   - Integrates government resources organized into an accessible, easily understandable format within a PostgreSQL database
-   - Ensures quick access to information and efficient data retrieval, optimized with React and Express
+   - Integrates government resources organized into an accessible, easily understandable format within a PostgreSQL database.
+   - Ensures quick access to information and efficient data retrieval, optimized with React and Express.
 
 4. **User-Friendly Interface**:
-   - Designed with Tailwind CSS for a responsive, visually appealing interface
-   - Features an intuitive layout with accessibility options, including language selection for enhanced usability
+   - Designed with Tailwind CSS for a responsive, visually appealing interface.
+   - Features an intuitive layout with accessibility options, including language selection for enhanced usability.
 
 5. **AI Language Model**:
-   - Leverages OpenAI Model 4.0 Mini for accurate, relevant responses based on migration-specific queries
-   - Provides language diversity, allowing users to interact with Pat.io in their preferred language, making information more accessible
+   - Leverages OpenAI Model 4.0 Mini for accurate, relevant responses based on migration-specific queries.
+   - Provides language diversity, allowing users to interact with Pat.io in their preferred language, making information more accessible.
 
 ## Fine-Tuning Process
 

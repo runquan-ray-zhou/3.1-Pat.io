@@ -4,11 +4,19 @@
 
 Pat.io is an AI chatbot fine-tuned to provide migrants with easy access to essential information about Social Security Numbers (SSN), Individual Taxpayer Identification Numbers (ITIN), and New York City’s Local Law 30. Pat.io offers a user-friendly experience to assist migrants in navigating the often complex processes involved in obtaining these identification numbers. Equipped with multi-language functionality, Pat.io can communicate in multiple languages, both in text and voice, making information accessible to a broader audience. By leveraging reliable resources, government data, and a customized AI language model, Pat.io ensures that users receive accurate, up-to-date answers to common questions about eligibility, documentation, and application procedures.
 
+## Links
+
+- **Live Link**: https://pat-io.netlify.app/
+- **Frontend Repo**: https://github.com/evrajireddy/pat.io-frontend
+- **Backend Repo**: https://github.com/BryanA0418/pat-io
+- **Backend Server**: https://pat-io.onrender.com/
+
 ## Technology Utilized
 
-- **React**: Frontend framework for building an intuitive and responsive user interface
-- **Express**: Backend framework to handle API requests and manage data processing
 - **PostgreSQL**: Database for storing and managing data on identification resources
+- **Express**: Backend framework to handle API requests and manage data processing
+- **React**: Frontend framework for building an intuitive and responsive user interface
+- **Node.js**: Server environment for executing JavaScript on the backend
 - **OpenAI Model 4.0 Mini**: Provides customized language model responses tailored to migrant needs
 - **Google Cloud Text-to-Speech API**: Enables text-to-speech functionality for multilingual audio output
 - **Google Cloud Translate API**: Facilitates translation services for multiple languages
@@ -75,6 +83,8 @@ The fine-tuning process for Pat.io involved customizing OpenAI’s Model 4.0 Min
 
 ## Usage
 
+Pat.io is designed to offer a natural, conversational experience, allowing you to interact with the chatbot as you would with a knowledgeable assistant. Whether you're checking eligibility, looking for specific documentation, or need answers in a different language, Pat.io is here to help you navigate these essential identification processes with ease.
+
 1. Open Pat.io in your web browser and start a conversation with the chatbot interface.
 2. Ask questions directly related to Social Security Numbers (SSN), Individual Taxpayer Identification Numbers (ITIN), or New York City’s Local Law 30.
 3. Use Pat.io's eligibilty feature by asking, “Am I eligible for an SSN?” or similar questions to get personalized guidance on eligibility requirements.
@@ -83,6 +93,10 @@ The fine-tuning process for Pat.io involved customizing OpenAI’s Model 4.0 Min
 6. Enable location services to receive location-specific recommendations if desired, like nearby SSN support centers or relevant local resources.
 7. For additional help or general inquiries, simply type or speak your question to Pat.io, and it will respond with clear, reliable information tailored to your needs.
 
-Pat.io is designed to offer a natural, conversational experience, allowing you to interact with the chatbot as you would with a knowledgeable assistant. Whether you're checking eligibility, looking for specific documentation, or need answers in a different language, Pat.io is here to help you navigate these essential identification processes with ease.
+## Team Members
 
-## Contact
+- [Abraham Zambrano Tablante - UX/UI Designer](https://www.linkedin.com/in/Abrahamzambranotablante/)
+- [Bryan Alcantara - Full Stack Developer](https://www.linkedin.com/in/bryan-alcantara-643479281/)
+- [Runquan (Ray) Zhou - Full Stack Developer](https://www.linkedin.com/in/runquanrayzhou/)
+- [Steven Rouse - UX/UI Designer](https://www.linkedin.com/in/StevenRouse/)
+- [Venkata Raji Reddy Eda - Developer](https://www.linkedin.com/in/evrajireddy/)

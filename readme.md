@@ -86,17 +86,17 @@ The fine-tuning process for Pat.io involved customizing OpenAI’s Model 4.0 Min
 Pat.io is designed to offer a natural, conversational experience, allowing you to interact with the chatbot as you would with a knowledgeable assistant. Whether you're checking eligibility, looking for specific documentation, or need answers in a different language, Pat.io is here to help you navigate these essential identification processes with ease.
 
 1. Open Pat.io in your web browser and start a conversation with the chatbot interface.
-2. Ask questions directly related to Social Security Numbers (SSN), Individual Taxpayer Identification Numbers (ITIN), or New York City’s Local Law 30.
-3. Use Pat.io's eligibilty feature by asking, “Am I eligible for an SSN?” or similar questions to get personalized guidance on eligibility requirements.
-4. Request information on documentation by asking, “What documents do I need for an SSN?” The chatbot will provide you with a detailed list and step-by-step instructions.
-5. Interact in your preferred language by selecting a language option or speaking to the bot—Pat.io can communicate in multiple languages, both in text and voice, to make the experience accessible for non-English speakers.
-6. Enable location services to receive location-specific recommendations if desired, like nearby SSN support centers or relevant local resources.
-7. For additional help or general inquiries, simply type or speak your question to Pat.io, and it will respond with clear, reliable information tailored to your needs.
+2. **Ask Questions**: Inquire directly about Social Security Numbers (SSN), Individual Taxpayer Identification Numbers (ITIN), or New York City’s Local Law 30.
+3. **Eligibility Checker**: Ask, “Am I eligible for an SSN?” or similar questions for personalized guidance on eligibility.
+4. **Documentation Guidance**: Request specific information by asking, “What documents do I need for an SSN?” The chatbot will provide a detailed list and step-by-step instructions.
+5. **Multi-Language Support**: Select a language option or speak to Pat.io; it can respond in both text and voice, making the experience accessible for non-English speakers.
+6. **Location Services**: Enable location services to receive location-specific recommendations, such as nearby SSN support centers or relevant local resources.
+7. **General Inquiries**: For additional help, type or speak your question to Pat.io, and it will respond with clear, reliable information tailored to your needs.
 
 ## Team Members
 
 - [Abraham Zambrano Tablante - UX/UI Designer](https://www.linkedin.com/in/Abrahamzambranotablante/)
-- [Bryan Alcantara - Full Stack Developer](https://www.linkedin.com/in/bryan-alcantara-643479281/)
+- [Bryan Alcantara - Backend Developer](https://www.linkedin.com/in/bryan-alcantara-643479281/)
 - [Runquan (Ray) Zhou - Full Stack Developer](https://www.linkedin.com/in/runquanrayzhou/)
 - [Steven Rouse - UX/UI Designer](https://www.linkedin.com/in/StevenRouse/)
-- [Venkata Raji Reddy Eda - Developer](https://www.linkedin.com/in/evrajireddy/)
+- [Venkata Raji Reddy Eda - Frontend Developer](https://www.linkedin.com/in/evrajireddy/)
